@@ -11,7 +11,7 @@ spotipy
 pytube
 google-auth==2.6.0
 google-auth-oauthlib==1.2.0
-yt-dlp==2023.12.30
+yt-dlp==2024.4.9
 youtube_dl==2021.12.17
 pydub
 wavelink==3.1.2
